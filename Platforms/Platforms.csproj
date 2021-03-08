@@ -7,6 +7,8 @@
     <Authors>Daniel Stamer-Squair</Authors>
     <Company>Daniel Stamer-Squair</Company>
     <Copyright>Copyright 2021 Daniel Stamer-Squair</Copyright>
+    <RepositoryUrl>https://github.com/uaineteine/Uaine.Platforms</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/uaineteine/Uaine.Platforms</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
