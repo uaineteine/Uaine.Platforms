@@ -11,6 +11,7 @@
     <PackageProjectUrl>https://github.com/uaineteine/Uaine.Platforms</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/uaineteine/Uaine.Platforms/blob/master/LICENSE</PackageLicenseUrl>
     <Description>A .NET standard DLL for providing a public static class of int constants for various platforms</Description>
+    <PackageTags>platforms</PackageTags>
   </PropertyGroup>
 
 </Project>
