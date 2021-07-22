@@ -10,6 +10,9 @@
         public const int ios = 5;
         public const int rasbian = 6;
         public const int chromeOS = 7;
+        public const int dos = 8;
+        public const int solaris = 9;
+        public const int symbian = 10;
 
         public static int currentPlatform = windowsdesktop;
         public static void setPlatform(int platID)

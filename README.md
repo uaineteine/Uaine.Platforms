@@ -6,7 +6,7 @@ A C# .NET standard DLL for providing a public static class of int constants for 
 
 Add source project to solution with reference to get started or install via [NuGet](https://www.nuget.org/packages/Uaine.Platforms/)
 
-## Version 1.0.3
+## Version 1.0.4
 
 <!-- See the [changelog](changelog.txt) for details.-->
 
