@@ -8,7 +8,7 @@ Add source project to solution with reference to get started or install via [NuG
 
 ## Version 1.0.4
 
-<!-- See the [changelog](changelog.txt) for details.-->
+See the [changelog](changelog.txt) for details
 
 ## Authors
 
@@ -16,4 +16,4 @@ Add source project to solution with reference to get started or install via [NuG
 
 ## License
 
-This project is licensed under the GNU license - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU license - see the [LICENSE](LICENSE) file for details
